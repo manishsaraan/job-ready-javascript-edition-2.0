@@ -1,0 +1,6 @@
+1.) Naming Branches : 
+
+"bug/fixed-all-caps"
+"feature/giant-duck-modal"
+"refactor/add-prop-types"
+"style/everything-is-black"
