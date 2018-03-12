@@ -7,3 +7,12 @@
 
 2.) Commit with Commit Body
 git commit -m "Short Message" -m "Long description"
+
+3.)Reverting a commit
+git revert commitHash
+
+4.)Deleting commits with rebase
+git rebase -i HEAD~2(latest two commits)
+
+5.)Deleting the commit but not the code
+git reset commitHash
