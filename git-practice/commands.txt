@@ -4,3 +4,6 @@
 "feature/giant-duck-modal"
 "refactor/add-prop-types"
 "style/everything-is-black"
+
+2.) Commit with Commit Body
+git commit -m "Short Message" -m "Long description"
